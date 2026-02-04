@@ -1,4 +1,4 @@
-# 🌌 QuantumTechLearn
+# 🌌 Qu-Learning : Quantumtechnology Learning
 
 Un site web éducatif pour **apprendre les technologies avancées** :  
 - 💻 Informatique Quantique  
